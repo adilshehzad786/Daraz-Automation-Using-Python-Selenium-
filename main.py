@@ -88,14 +88,7 @@ def main():
     file.write(text)
     file.close()
     time.sleep(3)
-<<<<<<< HEAD
 
-
-=======
-
-
->>>>>>> c2251c5 (Adding the CC Option)
-    
 #   ## Add to Cart Product
 #     elem=driver.find_elements_by_xpath('//*[@id="module_add_to_cart"]/div/button[2]')
 #     for elem in elem:
